@@ -1,0 +1,10 @@
+data/class/*
+discriminators/*
+generated_images/*
+models/*
+!data/class/.gitkeep
+!discriminators/.gitkeep
+!generated_images/.gitkeep
+!models/.gitkeep
+
+.ipynb_checkpoints/
